@@ -1,0 +1,6 @@
+dataset/
+venv/
+release/
+__pycache__/
+
+*.exe
